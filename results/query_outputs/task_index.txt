@@ -1,0 +1,30 @@
+01. Task 01 - Customer count
+02. Task 02 - Card count and types
+03. Task 03 - Portfolio credit limit
+04. Task 04 - Statement totals by month
+05. Task 05 - Customer profile with card count
+06. Task 06 - Credit limit by customer
+07. Task 07 - Statement exposure by card
+08. Task 08 - Customer billed amount
+09. Task 09 - Utilization proxy by card
+10. Task 10 - High billed-to-limit cards
+11. Task 11 - Total completed payments
+12. Task 12 - Payment status distribution
+13. Task 13 - Payments per statement
+14. Task 14 - Collection percentage by statement
+15. Task 15 - Customer payment behaviour
+16. Task 16 - Outstanding by statement
+17. Task 17 - Overdue statements at cutoff
+18. Task 18 - DPD for overdue balances
+19. Task 19 - Delinquency bucket
+20. Task 20 - Overdue exposure by customer
+21. Task 21 - Fully settled statements
+22. Task 22 - Partially settled statements
+23. Task 23 - Unpaid statements
+24. Task 24 - Settlement status summary
+25. Task 25 - Average payment amount
+26. Task 26 - Customers with overdue exposure above 10000
+27. Task 27 - Income band segmentation
+28. Task 28 - Customer risk snapshot
+29. Task 29 - Customers without any overdue balance
+30. Task 30 - Portfolio KPI dashboard

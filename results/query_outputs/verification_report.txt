@@ -1,0 +1,12 @@
+VERIFICATION REPORT
+Dataset type: Synthetic and deterministically generated; not real customer/bank data.
+Analysis cutoff date: 2026-11-19
+Record counts: {'customers': 100, 'credit_cards': 120, 'statements': 600, 'payments': 600}
+Analysis queries executed successfully: 30/30
+Foreign-key violations: 0
+Statements where completed payments exceed statement amount: 0
+Total billed statement amount: 20,391,000.00
+Total completed payments: 12,300,070.44
+Outstanding balance: 8,090,929.56
+Collection rate: 60.32%
+Overdue statements with outstanding balance at cutoff: 298

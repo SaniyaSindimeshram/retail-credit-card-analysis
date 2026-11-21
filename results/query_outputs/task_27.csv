@@ -1,0 +1,101 @@
+customer_name,annual_income,income_band
+Kabir More,300000.0,Below 6L
+Ananya Rao,350000.0,Below 6L
+Rohan More,370000.0,Below 6L
+Rohan Chavan,370000.0,Below 6L
+Aditya Nair,410000.0,Below 6L
+Ishita Verma,420000.0,Below 6L
+Aarav Chavan,440000.0,Below 6L
+Sana Sharma,440000.0,Below 6L
+Reyansh Singh,440000.0,Below 6L
+Sana Mishra,450000.0,Below 6L
+Arjun Jadhav,480000.0,Below 6L
+Neha Patil,480000.0,Below 6L
+Ishita Pawar,530000.0,Below 6L
+Reyansh Sharma,540000.0,Below 6L
+Neha Nair,620000.0,6L-10L
+Kabir Kulkarni,640000.0,6L-10L
+Priya Das,650000.0,6L-10L
+Rahul Iyer,670000.0,6L-10L
+Vihaan Shah,690000.0,6L-10L
+Aditi Khan,700000.0,6L-10L
+Tara Das,750000.0,6L-10L
+Priya Singh,760000.0,6L-10L
+Rahul Mehta,840000.0,6L-10L
+Neha Singh,850000.0,6L-10L
+Nisha Khan,870000.0,6L-10L
+Vihaan Iyer,890000.0,6L-10L
+Reyansh Nair,900000.0,6L-10L
+Karan Shah,950000.0,6L-10L
+Aarav Sharma,950000.0,6L-10L
+Tara Kulkarni,970000.0,6L-10L
+Priya Sharma,1020000.0,10L+
+Nisha Chavan,1040000.0,10L+
+Arjun Iyer,1070000.0,10L+
+Aditi Shah,1090000.0,10L+
+Dev Verma,1110000.0,10L+
+Priya Mishra,1120000.0,10L+
+Kabir Khan,1170000.0,10L+
+Mira Shah,1200000.0,10L+
+Ishita Jadhav,1220000.0,10L+
+Karan Jadhav,1290000.0,10L+
+Meera Mehta,1290000.0,10L+
+Karan Iyer,1300000.0,10L+
+Aditya Patil,1310000.0,10L+
+Aditi Iyer,1350000.0,10L+
+Priya Rao,1350000.0,10L+
+Karan Joshi,1380000.0,10L+
+Rohan Kulkarni,1400000.0,10L+
+Reyansh Patil,1420000.0,10L+
+Tara Mishra,1430000.0,10L+
+Rahul Jadhav,1440000.0,10L+
+Ishita Mehta,1490000.0,10L+
+Sana Nair,1490000.0,10L+
+Meera Verma,1510000.0,10L+
+Rahul Pawar,1520000.0,10L+
+Ananya Mishra,1540000.0,10L+
+Tara Rao,1550000.0,10L+
+Vihaan More,1550000.0,10L+
+Reyansh Gupta,1560000.0,10L+
+Dev Jadhav,1570000.0,10L+
+Neha Gupta,1580000.0,10L+
+Meera Patil,1590000.0,10L+
+Nisha More,1610000.0,10L+
+Ishita Joshi,1620000.0,10L+
+Aditya Verma,1690000.0,10L+
+Sana Patil,1690000.0,10L+
+Aarav Rao,1720000.0,10L+
+Tara Chavan,1760000.0,10L+
+Vihaan Deshmukh,1770000.0,10L+
+Rohan Rao,1790000.0,10L+
+Mira Kulkarni,1800000.0,10L+
+Aarav Das,1820000.0,10L+
+Mira Deshmukh,1850000.0,10L+
+Mira Khan,1870000.0,10L+
+Nisha Das,1870000.0,10L+
+Dev Pawar,1880000.0,10L+
+Ananya Sharma,1890000.0,10L+
+Nisha Kulkarni,1900000.0,10L+
+Mira More,1900000.0,10L+
+Aditi Deshmukh,1920000.0,10L+
+Ananya Nair,1970000.0,10L+
+Rohan Das,1980000.0,10L+
+Arjun Shah,2010000.0,10L+
+Neha Verma,2020000.0,10L+
+Sana Singh,2030000.0,10L+
+Arjun Joshi,2050000.0,10L+
+Arjun Pawar,2070000.0,10L+
+Aditya Gupta,2070000.0,10L+
+Aditi Joshi,2120000.0,10L+
+Dev Mehta,2160000.0,10L+
+Aarav Mishra,2210000.0,10L+
+Aditya Mehta,2210000.0,10L+
+Meera Pawar,2280000.0,10L+
+Vihaan Khan,2290000.0,10L+
+Rahul Joshi,2290000.0,10L+
+Meera Gupta,2300000.0,10L+
+Dev Gupta,2320000.0,10L+
+Kabir Chavan,2320000.0,10L+
+Kabir Deshmukh,2370000.0,10L+
+Karan Deshmukh,2380000.0,10L+
+Ananya Singh,2400000.0,10L+
